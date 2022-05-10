@@ -4,6 +4,7 @@ public class Work implements Employee {
    public int id=1;
    public String name="SreyLin";
    public String gender="Female";
+   public String job="HR";
 
 
     @Override
