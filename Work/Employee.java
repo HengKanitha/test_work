@@ -5,4 +5,5 @@ public  interface Employee {
     int id=1;
     String name="Lin";
     String gender="female";
+    double salary=200;
 }
