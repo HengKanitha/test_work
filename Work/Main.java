@@ -5,5 +5,6 @@ public class Main {
         Work obj=new Work();
        obj.employ(1,"Sok Dara","Male",20);
         obj.employ(2,"Chan Sreypich","Female",21);
+        obj.employ(3,"seyha","male",50);
     }
 }
